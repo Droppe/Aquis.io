@@ -1,7 +1,7 @@
-Pipeline
+Aquis.io
 =======
 
-Evented I/O and processing for Droppe.
+Evented I/O and data processing with Node and Redis.
 
 ##Architecture
 
