@@ -1,17 +1,17 @@
 {
   "name": "Aquis.io",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Evented I/O + Data Processing for Node.",
   "main": "index.js",
   "scripts": {
-    "test":"mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Droppe/Aqueduct.git"
   },
   "author": "Robert Martone <iheartweb@gmail.com>",
-  "license": "No License",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Droppe/Aquis.io/issues"
   },
@@ -24,6 +24,5 @@
   "devDependencies": {
     "mocha": "~2.0.1",
     "chai": "~1.9.2"
-  },
-  "license": "MIT"
+  }
 }
