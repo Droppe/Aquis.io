@@ -10,12 +10,12 @@
     "type": "git",
     "url": "https://github.com/Droppe/Aqueduct.git"
   },
-  "author": "Robert Martone",
+  "author": "Robert Martone <iheartweb@gmail.com>",
   "license": "No License",
   "bugs": {
-    "url": "https://github.com/Droppe/Aqueduct/issues"
+    "url": "https://github.com/Droppe/Aquis.io/issues"
   },
-  "homepage": "https://github.com/Droppe/Aqueduct",
+  "homepage": "https://github.com/Droppe/Aquis.io",
   "dependencies": {
     "redis": "~0.12.1",
     "MD5": "~1.2.1",
@@ -24,5 +24,6 @@
   "devDependencies": {
     "mocha": "~2.0.1",
     "chai": "~1.9.2"
-  }
+  },
+  "license": "MIT"
 }
