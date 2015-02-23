@@ -1,5 +1,5 @@
 {
-  "name": "Aquis.io",
+  "name": "aquis.io",
   "version": "0.0.1",
   "description": "Evented I/O + Data Processing for Node.",
   "main": "index.js",
